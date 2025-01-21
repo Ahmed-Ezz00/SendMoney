@@ -15,8 +15,8 @@ This project is designed to evaluate my proficiency in iOS development, includin
 
 ## Requirements
 - **iOS Version:** iOS 13.0 or later
-- **Xcode Version:** Xcode 14.0 or later
-- **Swift Version:** Swift 5.7
+- **Xcode Version:** Xcode 16.0 or later
+- **Swift Version:** Swift 6.0
 
 ---
 
