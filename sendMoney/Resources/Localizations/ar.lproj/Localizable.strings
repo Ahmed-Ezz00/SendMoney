@@ -1,0 +1,26 @@
+/* 
+  Localizations.strings
+  sendMoney
+
+  Created by Ahmed Ezz on 19/01/2025.
+  
+*/
+"signIn.title" = "تسجيل الدخول";
+"signIn.label.sendMoney" = "تطبيق إرسال الأموال";
+"signIn.label.welcome" = "مرحبًا بك في تطبيق إرسال الأموال!";
+"signIn.textField.email.placeHolder" = "البريد الإلكتروني*";
+"signIn.textField.password.placeHolder" = "كلمة المرور*";
+"signIn.label.termsConditions" = "بالمتابعة، فإنك توافق أيضًا على شروط الخدمة وسياسة الخصوصية";
+"signIn.button.title" = "تسجيل الدخول";
+"signIn.error" = "بيانات غير صالحة";
+"alertController.action.ok" = "موافق";
+"general.error.message" = "حدث خطأ ما!";
+"sendMoney.label.service" = "الخدمة";
+"sendMoney.textField.service.placeHolder" = "اختر الخدمة";
+"sendMoney.label.provider" = "الموفر";
+"sendMoney.textField.provider.placeHolder" = "اختر الموفر";
+"sendMoney.textField.error.required" = "حقل %@ مطلوب";
+"sendMoney.button.title" = "إرسال";
+"requestList.title" = "الطلبات";
+"requestList.button.title" = "عرض التفاصيل";
+"requestDetails.title" = "تفاصيل الطلب";

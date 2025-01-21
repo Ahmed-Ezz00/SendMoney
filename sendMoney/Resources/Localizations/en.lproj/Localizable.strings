@@ -1,0 +1,26 @@
+/* 
+  Localizations.strings
+  sendMoney
+
+  Created by Ahmed Ezz on 19/01/2025.
+  
+*/
+"signIn.title" = "Sign in";
+"signIn.label.sendMoney" = "SEND MONEY APP";
+"signIn.label.welcome" = "Welcom to Send Money App!";
+"signIn.textField.email.placeHolder" = "Email*";
+"signIn.textField.password.placeHolder" = "Password*";
+"signIn.label.termsConditions" = "By proceeding you also agree to the Terms of Service and Privacy Policy";
+"signIn.button.title" = "Sign in";
+"signIn.error" = "Invalid Data";
+"alertController.action.ok" = "OK";
+"general.error.message" = "Something went wrong!";
+"sendMoney.label.service" = "Service";
+"sendMoney.textField.service.placeHolder" = "Select service";
+"sendMoney.label.provider" = "Provider";
+"sendMoney.textField.provider.placeHolder" = "Select provider";
+"sendMoney.textField.error.required" = "%@ is required";
+"sendMoney.button.title" = "SEND";
+"requestList.title" = "Requests";
+"requestList.button.title" = "Show details";
+"requestDetails.title" = "Request details";
